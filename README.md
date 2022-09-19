@@ -1,0 +1,1 @@
+# coingecko-trending-bot
